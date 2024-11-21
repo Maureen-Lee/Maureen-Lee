@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="http://106.54.234.202:8080/GraphQL/stats/xushiwei">
+![描述文本](https://your-image-hosting.com/xushiwei.png)

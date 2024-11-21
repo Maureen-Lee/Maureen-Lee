@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="http://106.54.234.202:8080/GraphQL/stats/xushiwei">
-![111](http://106.54.234.202:8080/GraphQL/stats/xushiwei)
+
